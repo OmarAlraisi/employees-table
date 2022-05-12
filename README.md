@@ -4,6 +4,6 @@ This is a small window that allows you to perform CRUD operations to an SQL data
 
 ## Version Control 'Git'
 
-This project hosted on [OmarAlraisi/employees-table](https://github.com/OmarAlraisi/employees-table.git) and uses the [git-flow](./Git%20Flow.JPG) architecture.
+This project hosted on [OmarAlraisi/employees-table](https://github.com/OmarAlraisi/employees-table.git) and uses the [git-flow](./docs/assets/Git%20Flow.JPG) architecture.
 
-**NOTE**: _New features should never be added directly to the `develop` branch_.
+**NOTE**: _Changes should never be done directly on the `develop` branch, except for the first foundational changes_.
