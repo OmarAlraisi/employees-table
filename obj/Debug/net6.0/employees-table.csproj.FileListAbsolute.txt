@@ -1,0 +1,17 @@
+/Users/omar/Desktop/employees-table/bin/Debug/net6.0/employees-table
+/Users/omar/Desktop/employees-table/bin/Debug/net6.0/employees-table.deps.json
+/Users/omar/Desktop/employees-table/bin/Debug/net6.0/employees-table.runtimeconfig.json
+/Users/omar/Desktop/employees-table/bin/Debug/net6.0/employees-table.dll
+/Users/omar/Desktop/employees-table/bin/Debug/net6.0/ref/employees-table.dll
+/Users/omar/Desktop/employees-table/bin/Debug/net6.0/employees-table.pdb
+/Users/omar/Desktop/employees-table/obj/Debug/net6.0/employees-table.csproj.AssemblyReference.cache
+/Users/omar/Desktop/employees-table/obj/Debug/net6.0/employees-table.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omar/Desktop/employees-table/obj/Debug/net6.0/employees-table.AssemblyInfoInputs.cache
+/Users/omar/Desktop/employees-table/obj/Debug/net6.0/employees-table.AssemblyInfo.cs
+/Users/omar/Desktop/employees-table/obj/Debug/net6.0/employees-table.csproj.CoreCompileInputs.cache
+/Users/omar/Desktop/employees-table/obj/Debug/net6.0/employees-table.dll
+/Users/omar/Desktop/employees-table/obj/Debug/net6.0/ref/employees-table.dll
+/Users/omar/Desktop/employees-table/obj/Debug/net6.0/employees-table.pdb
+/Users/omar/Desktop/employees-table/obj/Debug/net6.0/employees-table.genruntimeconfig.cache
+/Users/omar/Desktop/employees-table/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/omar/Desktop/employees-table/obj/Debug/net6.0/employees-table.csproj.CopyComplete

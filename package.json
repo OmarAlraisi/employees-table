@@ -1,0 +1,23 @@
+{
+  "name": "employees-table",
+  "version": "1.0.0",
+  "description": "This is a small window that allows you to perform CRUD operations to an SQL database.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "dotnet run",
+    "translate": "python3 ./scripts/translate.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmarAlraisi/employees-table.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmarAlraisi/employees-table/issues"
+  },
+  "homepage": "https://github.com/OmarAlraisi/employees-table#readme"
+}

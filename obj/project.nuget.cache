@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qG9A1t8wJGCJL2ms/1LxNdD4r867dV5kvxaiMmWdJSgoK7xNtri6FlTf6Q3cokwseJ1b4C87DJ/G/wjtQ9TI/Q==",
+  "dgSpecHash": "9UAT6e/K6mKSL9kDlUUHDLi3Lv7IH+V2t6dwDuvqErbXGfLmyJ3npJL4emyG/6Aa0ovUn3A7HNuwkbzZYNjf3g==",
   "success": true,
   "projectFilePath": "/Users/omar/Desktop/employees-table/employees-table.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/omar/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
